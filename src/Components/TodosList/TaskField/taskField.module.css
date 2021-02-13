@@ -1,0 +1,8 @@
+.doneTask {
+	text-decoration: line-through;
+	color: gray;
+}
+.undoneTask {
+	text-decoration: none;
+	color: black;
+}

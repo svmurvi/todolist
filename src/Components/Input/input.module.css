@@ -1,0 +1,12 @@
+.textField {
+	color: black;
+	width: 400px;
+	margin: 0 0 5px 0;
+	box-sizing: content-box;
+	animation-name: mui-auto-fill-cancel;
+	animation-duration: 10ms;
+	padding: 0;
+}
+.buttonAdd {
+	height: 56px;
+}
