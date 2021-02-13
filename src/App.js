@@ -1,4 +1,3 @@
-import './App.css';
 import Input from './Components/Input';
 import {AppContext} from './Components/Context'
 import TodosList from './Components/TodosList';
