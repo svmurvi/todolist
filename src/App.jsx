@@ -1,12 +1,13 @@
+import React from 'react';
 import Input from './Components/Input';
-import {AppContext} from './Components/Context'
+import { AppContext } from './Components/Context';
 import TodosList from './Components/TodosList';
 
 function App() {
   return (
     <AppContext>
-      <Input/>
-      <TodosList/>
+      <Input />
+      <TodosList />
     </AppContext>
   );
 }
