@@ -2,3 +2,6 @@
 	border-radius: 5px;
 	box-shadow: 0 0 2px gray;
 }
+.list_display_none {
+	display: none;
+}

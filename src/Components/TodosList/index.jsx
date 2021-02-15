@@ -16,7 +16,7 @@ function TodosList() {
     />
   ));
   return (
-    <List className={styles.list}>
+    <List className={todos.length ? styles.list : styles.list_display_none}>
       {todosList}
     </List>
   );
